@@ -1,0 +1,16 @@
+*.iml
+*.apk
+*.aab
+.gradle
+/local.properties
+.idea
+.DS_Store
+/captures
+/buildSrc/build
+build
+
+!app/build-scripts.git/android/gradle-plugin/plugin/build
+!app/build-scripts.git/android/gradle-plugin/repo/com/chaione/build
+/report
+debug-keystore-provider.properties
+release-keystore-provider.properties
